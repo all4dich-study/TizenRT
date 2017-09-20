@@ -33,7 +33,7 @@ cd TizenRT
 TIZENRT_BASEDIR="$PWD"
 ```
 
-### How to Build
+### How to Build - 2
 
 Configure the build from *$TIZENRT_BASEDIR/os/tools* directory
 ```bash
